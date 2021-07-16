@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c004ffc9-fdaf-47e9-b072-6d0c3b4a90ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/progress/plan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress/src/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/progress/src/Subjects.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1vOPrauuAeveUTTj0JAbLA7DWgx" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c004ffc9-fdaf-47e9-b072-6d0c3b4a90ad" name="Default Changelist" comment="" />
+      <created>1626430362063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1626430362063</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="166" y="27" width="1024" height="741" key="#Project_Structure" timestamp="1626430575002">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="166" y="27" width="1024" height="741" key="#Project_Structure/0.27.1366.741@0.27.1366.741" timestamp="1626430575002" />
+    <state x="398" y="198" width="560" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1626431939931">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="398" y="198" width="560" height="396" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.741@0.27.1366.741" timestamp="1626431939931" />
+    <state x="491" y="83" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1626433368276">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="491" y="83" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/0.27.1366.741@0.27.1366.741" timestamp="1626433368276" />
+    <state x="124" y="101" width="495" height="590" key="FileChooserDialogImpl" timestamp="1626431706165">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="124" y="101" width="495" height="590" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1626431706165" />
+    <state x="0" y="142" width="861" height="509" key="NewModule_or_Project.wizard" timestamp="1626430765990">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="0" y="142" width="861" height="509" key="NewModule_or_Project.wizard/0.27.1366.741@0.27.1366.741" timestamp="1626430765990" />
+    <state x="-101" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1626431714375">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="-101" y="27" width="1024" height="741" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1626431714375" />
+    <state x="0" y="27" width="1356" height="741" key="new project wizard" timestamp="1626430810091">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="0" y="27" width="1356" height="741" key="new project wizard/0.27.1366.741@0.27.1366.741" timestamp="1626430810091" />
+  </component>
+</project>
