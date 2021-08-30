@@ -1,8 +1,0 @@
-hocemo da ima predmete kao glavne klase
-
-klasa predmet:
-    -ime profesora
-    -broj espb
-    -ime predmeta
-
-i njima manipulisemo. Prvo cemo da napravimo da moze da se racuna prosek ocena.
